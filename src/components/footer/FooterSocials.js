@@ -6,7 +6,7 @@ import Website from "../../assets/images/socials/portfolio.png";
 const socials = [
   {
     id: 1,
-    href: "https://github.com/TeknixGit/pizza-time",
+    href: "https://github.com/AsmaeKh7/pizza-time",
     img: Github,
     name: Github
   },
@@ -18,7 +18,7 @@ const socials = [
   },
   {
     id: 3,
-    href: "https://teknix-id.vercel.app/",
+    href: "",
     img: Website,
     name: Website
   }
